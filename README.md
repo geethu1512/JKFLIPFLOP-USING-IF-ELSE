@@ -1,4 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
+### Name : GEETHU R
+### Register No : 24006425
+# EXPERIMENT NO 7 : JK FLIP-FLOP 
 
 **AIM:** 
 
@@ -34,15 +36,20 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2024-12-09 105410](https://github.com/user-attachments/assets/31110d42-81e0-46d2-bd28-450f899ee620)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+![Screenshot 2024-12-09 104442](https://github.com/user-attachments/assets/6173876b-6e4d-48f2-bca5-39f741735e4d)
 
-**RESULTS**
+**TIMING DIGRAMS FOR FLIP FLOPS**
+![Waveform](https://github.com/user-attachments/assets/9ee3fe5a-48a9-40dc-bf5d-3b0ff3a6f22b)
+
+**RESULT**
+
+Implemented JK flipflop using verilog and validating their functionality using their functional tables.
